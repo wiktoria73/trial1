@@ -1,0 +1,25 @@
+{
+  "name": "7.5",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiktoria73/trial1.git"
+  },
+  "author": "Wiktoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiktoria73/trial1/issues"
+  },
+  "homepage": "https://github.com/wiktoria73/trial1#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
